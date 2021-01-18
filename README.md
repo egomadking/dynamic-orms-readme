@@ -463,7 +463,3 @@ Now that we have all of these great dynamic, abstract methods that connect a cla
 [SQLite- PRAGMA](http://www.tutorialspoint.com/sqlite/sqlite_pragma.htm)
 
 [PRAGMA](https://www.sqlite.org/pragma.html#pragma_table_info)
-
-
-
-
